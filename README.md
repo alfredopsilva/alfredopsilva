@@ -14,5 +14,5 @@ Visit my [portfolio website](https://www.alfredosilva.dev/) for more information
 <details>
   <summary> For more stats about my Work</summary>
     <h4>Languages<h4>
-    <figure><embed src="https://wakatime.com/share/@1251d524-fbcb-48a9-8e76-1d1c99c3d736/f9d790b1-2ec0-414c-ac18-e498180692e8.svg"></embed></figure>
+    ![alfredopsilva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredopsilva&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 </details>
