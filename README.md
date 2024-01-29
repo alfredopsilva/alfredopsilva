@@ -52,3 +52,5 @@ last_contribution:
 
 
 Let's [connect](https://www.linkedin.com/in/alfredopsilva/).
+
+[Portfolio](https://www.alfredosilva.dev)
