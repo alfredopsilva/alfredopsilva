@@ -14,5 +14,5 @@ Visit my [portfolio website](https://www.alfredosilva.dev/) for more information
 <details>
   <summary> For more stats about my Work</summary>
     <h4>Languages<h4>
-    ![alfredopsilva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredopsilva&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+    [alfredopsilva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredopsilva&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 </details>
