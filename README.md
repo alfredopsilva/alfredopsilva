@@ -4,14 +4,14 @@ located_in: Montreal, QC.
 job: Software Developer Jr.
 portfolio: "https://www.alfredosilva.dev"
 education: ["Programming and Software Development", "Business Administration, MBA"]
-focused_into: [".java", ".cs", ".ts", ".tsx"]
-languages: ["JAVA", "C#", "Typescript","Javascript","PHP", "Python", "C++"]
-currently_learning: ["ASP.net", "NextJS"]
+focused_into: [".java", ".lua" , ".ts", ".tsx"]
+languages: ["JAVA", "Typescript", "C++"]
+currently_learning: ["DataStructures and Algorithms", "NextJS"]
 will_learn: ["Machine Learning"]
 hobbies: ["Running", "Coffee", "Reading", "Cooking"]
 current_project: 
-  name: "SimpleBean"
-  repository: "https://github.com/alfredopsilva/SimpleBean"
+  name: "DevFlow"
+  repository: "https://github.com/alfredopsilva/DevFlow"
 last_project:  
   name: "TaskTrace"
   url: "https://tasktrace.app"
