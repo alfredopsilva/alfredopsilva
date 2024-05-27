@@ -10,8 +10,8 @@ currently_learning: ["DataStructures and Algorithms", "NextJS"]
 will_learn: ["Machine Learning"]
 hobbies: ["Running", "Coffee", "Reading", "Cooking"]
 current_project: 
-  name: "DevFlow"
-  repository: "https://github.com/alfredopsilva/DevFlow"
+  name: "TechTalk"
+  repository: "https://github.com/alfredopsilva/techtalk"
 last_project:  
   name: "TaskTrace"
   url: "https://tasktrace.app"
